@@ -1,1 +1,1 @@
-# RAG-with-Mistral-and-Llma_index
+# RAG-with-Mistral-and-Ilama_index
